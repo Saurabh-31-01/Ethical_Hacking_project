@@ -1,0 +1,10 @@
+GET /products.php?cat=1 HTTP/1.1
+Host: 13.233.233.195
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Referer: http://13.233.233.195/products.php
+Cookie: key=F6137E1A-B035-5F45-94DF-1191844A43D5; PHPSESSID=4qqsisrlp2t7qgrh83us8cqfh6; X-XSRF-TOKEN=ec6cf80c6bc758410fee2dc3d8fd6bbd578ee5082b3f861e0de759d310aab148
+Upgrade-Insecure-Requests: 1

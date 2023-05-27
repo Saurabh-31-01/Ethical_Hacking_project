@@ -1,0 +1,15 @@
+POST /products.php?page=2 HTTP/1.1
+Host: 43.205.217.41
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 82
+Origin: http://43.205.217.41
+Connection: close
+Referer: http://43.205.217.41/products.php
+Cookie: key=F6137E1A-B035-5F45-94DF-1191844A43D5; PHPSESSID=6c6lj5r7uoak5kg6meinjjs3g6; X-XSRF-TOKEN=6496b16238d4a0b09f48faff68e21dd84d9684714f3d19fe66b2a520f983ed8f
+
+cat=&X-XSRF-TOKEN=6496b16238d4a0b09f48faff68e21dd84d9684714f3d19fe66b2a520f983ed8f
